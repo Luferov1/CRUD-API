@@ -19,6 +19,10 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "no-console": "off"
+        "no-console": "off",
+        "eol-last": "off",
+        "semi": "warn",
+        "import/prefer-default-export": "off",
+        "comma-dangle": "off"
     }
 }
