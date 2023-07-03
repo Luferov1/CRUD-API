@@ -23,6 +23,8 @@
         "eol-last": "off",
         "semi": "warn",
         "import/prefer-default-export": "off",
-        "comma-dangle": "off"
+        "comma-dangle": "off",
+        "padded-blocks": "off",
+        "no-prototype-builtins": "off"
     }
 }
